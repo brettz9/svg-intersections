@@ -11,7 +11,9 @@ package-lock.json
 pids
 logs
 results
+dist
+docs/jsdoc
 
 npm-debug.log
 
-node_modules/
+node_modules
